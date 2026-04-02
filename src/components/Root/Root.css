@@ -1,0 +1,11 @@
+.root-main {
+  display: flex;
+  gap: 20px;
+}
+
+nav a.active {
+  text-decoration: underline;
+  color: #7c3aed;
+  font-weight: bold;
+  border-bottom: 2px solid #7c3aed;
+}
